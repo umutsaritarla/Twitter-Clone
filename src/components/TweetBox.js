@@ -14,7 +14,7 @@ const TweetBox = () => {
             username: "@umutsaritarla",
             content,
             timestamp: firebase.firestore.FieldValue.serverTimestamp(),
-            image: "https://media.tenor.com/qp6aC6KpZsMAAAAS/billie-eilish-my-future.gif",
+            image: "https://media.tenor.com/zzM8flawkjoAAAAC/donkey-swing.gif",
             avatar: "https://pbs.twimg.com/profile_images/1593330025838907394/ZL1OFc3L_400x400.jpg"
            })
 
